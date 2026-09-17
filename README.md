@@ -37,6 +37,9 @@ the demo instance, which runs on invented records.
 
 | Project | What it solves | Tech |
 |---|---|---|
+| **[Price Tracker](https://github.com/Jesus-Jazisenot/price-tracker-demo)** | Scrapes store prices, lets you track products from a simple web UI and sends Telegram alerts on price drops | Python · FastAPI · SQLite |
+| **[Leads Las Malvinas](https://github.com/Jesus-Jazisenot/leads-malvinas)** | Merges business contacts (phone, WhatsApp, email, website) from Google Maps, Yellow Pages and the web into one Excel — delivered to a client | Python · pandas |
+| **[Abi — WhatsApp assistant](https://github.com/Jesus-Jazisenot/abi-ekkfrio)** | WhatsApp assistant and admin panel for a local HVAC business | TypeScript · WhatsApp API |
 | **[Google Maps Business Scraper](https://github.com/Jesus-Jazisenot/google-maps-business-scraper)** | Pulls business listings into a CSV — name, phone, rating, website — for lead research | Python · Playwright |
 | **[Excel Automation CLI](https://github.com/Jesus-Jazisenot/excel-automation-python)** | Merges, cleans and reports on Excel/CSV files so nobody does it by hand | Python · pandas · openpyxl |
 | **[Telegram Bot Starter](https://github.com/Jesus-Jazisenot/telegram-bot-starter)** | Ready-to-extend bot: commands, inline buttons, scheduled reminders, per-user storage | python-telegram-bot |
@@ -60,7 +63,7 @@ dates, and a message that arrives on time.
 ### 📫 Get in touch
 
 - 📧 **l231000105@mazatlan.tecnm.mx**
-- 🌐 Portfolio: [portafolio-inicial.vercel.app](https://portafolio-inicial.vercel.app)
+- 🌐 Portfolio: [portafolio-jesus-six.vercel.app](https://portafolio-jesus-six.vercel.app)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jesus-Jazisenot&show_icons=true&theme=tokyonight&hide_border=true" height="150">
