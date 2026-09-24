@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jesús 👋</h1>
 <p align="center">
-  <b>I build business systems that replace spreadsheets and manual follow-up</b><br>
-  Python · FastAPI · PostgreSQL — software that runs in production, not in a demo folder
+  <b>I build AI assistants, data pipelines and business systems that replace manual work</b><br>
+  Python · FastAPI · PostgreSQL · RAG · dbt — tested, containerized and measured, not left in a demo folder
 </p>
 
 <p align="center">
@@ -13,6 +13,15 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/pgvector_·_RAG-336791?style=flat&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white">
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white">
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude_·_Gemini-D97757?style=flat&logo=anthropic&logoColor=white">
 </p>
 
 ---
@@ -32,6 +41,14 @@ The repository is private because it holds a client's data. Happy to walk you th
 the demo instance, which runs on invented records.
 
 ---
+
+### 🧪 AI & data projects
+
+| Project | What it shows | Tech |
+|---|---|---|
+| **[DocuCita](https://github.com/Jesus-Jazisenot/docucita)** | RAG over Mexico's Federal Labor Law (1,163 articles): every answer cites the exact article, or says it isn't in the documents. Hybrid search + a 41-question labeled eval | FastAPI · Postgres/pgvector · Gemini · Docker · CI |
+| **[Remote Jobs Pipeline](https://github.com/Jesus-Jazisenot/remote-jobs-pipeline)** | Daily ELT: remote-job APIs → DuckDB → dbt (29 models & tests) → a salary/skills dashboard on GitHub Pages, no server | dbt · DuckDB · GitHub Actions |
+| **[Intent Classifier (ES)](https://github.com/Jesus-Jazisenot/intent-classifier-es)** | 60 intents in Spanish (MASSIVE): 83.4% accuracy, 1.5 ms per prediction, experiments tracked in MLflow | scikit-learn · MLflow |
 
 ### 🛠️ Selected work
 
@@ -62,7 +79,9 @@ dates, and a message that arrives on time.
 
 ### 📫 Get in touch
 
-- 📧 **l231000105@mazatlan.tecnm.mx**
+- 📧 **bussnestjesus2005@gmail.com**
+- 💬 WhatsApp: [+52 669 593 9300](https://wa.me/526695939300)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-antonio-rodr%C3%ADguez-peraza-23743b439)
 - 🌐 Portfolio: [portafolio-jesus-six.vercel.app](https://portafolio-jesus-six.vercel.app)
 
 <p align="center">
