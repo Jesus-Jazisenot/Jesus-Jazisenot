@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jesús 👋</h1>
+<h1 align="center">Hi, I'm Jesús </h1>
 <p align="center">
   <b>I build AI assistants, data pipelines and business systems that replace manual work</b><br>
   Python · FastAPI · PostgreSQL · RAG · dbt — tested, containerized and measured, not left in a demo folder
@@ -26,7 +26,7 @@
 
 ---
 
-### 📌 Currently in production
+###  Currently in production
 
 **Insurance policy manager** — built for an agency that tracked renewals in physical
 folders and a spreadsheet. In daily use, managing **273 policies across 4 agents**.
@@ -42,7 +42,7 @@ the demo instance, which runs on invented records.
 
 ---
 
-### 🧪 AI & data projects
+###  AI & data projects
 
 | Project | What it shows | Tech |
 |---|---|---|
@@ -50,7 +50,7 @@ the demo instance, which runs on invented records.
 | **[Remote Jobs Pipeline](https://github.com/Jesus-Jazisenot/remote-jobs-pipeline)** | Daily ELT: remote-job APIs → DuckDB → dbt (29 models & tests) → a salary/skills dashboard on GitHub Pages, no server | dbt · DuckDB · GitHub Actions |
 | **[Intent Classifier (ES)](https://github.com/Jesus-Jazisenot/intent-classifier-es)** | 60 intents in Spanish (MASSIVE): 83.4% accuracy, 1.5 ms per prediction, experiments tracked in MLflow | scikit-learn · MLflow |
 
-### 🛠️ Selected work
+###  Selected work
 
 | Project | What it solves | Tech |
 |---|---|---|
@@ -66,7 +66,7 @@ the demo instance, which runs on invented records.
 
 ---
 
-### 👨‍💻 About
+###  About
 
 Computer Systems Engineering student at **TecNM Mazatlán** 🇲🇽 · bilingual **EN / ES**.
 
@@ -77,7 +77,7 @@ dates, and a message that arrives on time.
 
 ---
 
-### 📫 Get in touch
+###  Get in touch
 
 - 📧 **bussnestjesus2005@gmail.com**
 - 💬 WhatsApp: [+52 669 593 9300](https://wa.me/526695939300)
